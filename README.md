@@ -22,3 +22,6 @@ The code can be run by opening the notebooks in Jupyter Notebook which can be
 launched with
 
     jupyter notebook
+
+If you just want to view the notebooks without running the code, you can also
+click the GitHub links to see a rendered version.
