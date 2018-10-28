@@ -1,7 +1,7 @@
 jupyter
 matplotlib
 nengo
-nengo_spa
+nengo_spa==0.6
 notebook
 numpy
 pandas
